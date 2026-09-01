@@ -110,8 +110,6 @@ const treatments: Treatment[] = [
   { name: 'Aroma Oil Massage', durations: [{ minutes: 60, price: '5,500' }, { minutes: 90, price: '7,500' }, { minutes: 120, price: '9,500' }] },
   { name: 'Oil Massage', durations: [{ minutes: 60, price: '5,500' }, { minutes: 90, price: '7,500' }, { minutes: 120, price: '9,500' }] },
   { name: 'Back & Shoulder Massage', durations: [{ minutes: 60, price: '5,000' }, { minutes: 90, price: '7,000' }, { minutes: 120, price: '8,500' }] },
-  { name: 'Nuru Massage', durations: [{ minutes: 60, price: '7,000' }, { minutes: 90, price: '10,000' }, { minutes: 120, price: '15,000' }] },
-  { name: 'Body to Body Massage', durations: [{ minutes: 60, price: '8,000' }, { minutes: 90, price: '11,000' }, { minutes: 120, price: '15,000' }] },
   { name: 'Foot Massage', durations: [{ minutes: 60, price: '3,000' }, { minutes: 90, price: '4,500' }, { minutes: 120, price: '6,000' }] },
   { name: 'Four Hand Massage', durations: [{ minutes: 60, price: '11,000' }, { minutes: 90, price: '15,000' }, { minutes: 120, price: '20,000' }] },
 ];
